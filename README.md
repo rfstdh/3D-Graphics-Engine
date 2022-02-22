@@ -13,12 +13,22 @@
 
 ## Zrzuty ekranu | Screenshots
 
+### Pozycja startowa | Starting position
+![w1](https://user-images.githubusercontent.com/43353217/155166589-e05d0b8c-5fa6-412d-9fd9-fcf62fc90b5d.PNG)
 
+### Ruch w lewo | Left side movement
+![w2](https://user-images.githubusercontent.com/43353217/155166582-035a76fb-8705-4392-816b-abce1373c7c4.PNG)
+
+### Ruch do góry | Upside movement
+![w3](https://user-images.githubusercontent.com/43353217/155166611-8e5638b9-4fb9-4b84-968e-2f5fb444224b.PNG)
+
+### Ruch w prawo | Right side movement
+![w4](https://user-images.githubusercontent.com/43353217/155166617-7f77cbe6-ea11-4520-a155-51f6ed539383.PNG)
 
 ## Sterowanie | Controls
 
 - WSAD - ruch kamery | camera movement
-- ZX - przybliżanie/oddalanie | zooming in/out
+- Z/X - przybliżanie/oddalanie | zooming in/out
 - M - rotacja osi X | X axis rotation
 - N - rotacja osi Y | Y axis rotation
 - B - rotacja osi Z | Z axis rotation
